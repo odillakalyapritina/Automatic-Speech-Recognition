@@ -31,13 +31,6 @@ This project demonstrates an Automatic Speech Recognition (ASR) system that conv
 - Process features with the ASR model (acoustic + language models)
 - Generate transcribed text with optional enhancements (punctuation, keyword spotting)
 
-## Applications
-- Voice assistants and chatbots
-- Automated meeting transcription
-- Accessibility tools (subtitles, closed captions)
-- Voice-controlled systems
-- Language learning apps
-
 ## Tech Stack
 - Programming Language: Python 3.11+
 
