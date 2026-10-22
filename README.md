@@ -4,7 +4,7 @@
 This project demonstrates an Automatic Speech Recognition (ASR) system that converts spoken audio into written text. The pipeline captures audio input, processes acoustic features, and produces text output with additional functionalities such as real-time streaming and custom vocabularies.
 
 ## Workflow
-`python asr.py` -- `input sample.wav` -- `output transcript.txt`
+`python asr.py` -- `input sample` -- `output transcript.txt`
 
 ## Input
 - Audio file formats: .wav, .mp3, .flac
