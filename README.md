@@ -16,15 +16,6 @@ This project demonstrates an Automatic Speech Recognition (ASR) system that conv
 - Confidence scores for recognized words
 - Optional features: punctuation, capitalization, keyword highlighting
 
-## Features
-- Speaker-independent recognition – works across different speakers without retraining
-- Noise robustness – resilient against background noise
-- Real-time processing – supports streaming audio for live transcription
-- Multilingual support – recognize and transcribe multiple languages
-- Custom vocabulary – add technical terms, domain-specific words, or names
-- Keyword spotting – detect specific keywords without full transcription
-- Formatting support – automatic punctuation and text structuring
-
 ## How It Works
 - Capture audio input from file or microphone
 - Extract acoustic features (e.g., MFCCs)
